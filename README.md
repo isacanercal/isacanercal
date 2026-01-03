@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Computer Engineering Student & AI Developer
 
-I am a senior Computer Engineering student at Bursa Technical University, focused on Artificial Intelligence, Computer Vision, and Local LLMs. I develop projects primarily on Ubuntu, leveraging NVIDIA CUDA and the Ollama ecosystem.
+I am a Computer Engineering student at Bursa Technical University, focused on Artificial Intelligence, Computer Vision, and Local LLMs. I develop projects primarily on Ubuntu, leveraging NVIDIA CUDA and the Ollama ecosystem.
 
 ---
 
