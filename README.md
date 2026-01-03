@@ -27,5 +27,5 @@ I am a senior Computer Engineering student at Bursa Technical University, focuse
 ---
 
 ### 📫 Connect with Me:
-- **LinkedIn:** [linkedin.com/in/isacanercal](www.linkedin.com/in/isa-caner-çal-870869258)
+- **LinkedIn:** [linkedin.com/in/isa-caner-çal-870869258](https://www.linkedin.com/in/isa-caner-çal-870869258)
 - **Email:** isacanercal@gmail.com
