@@ -1,16 +1,16 @@
 # Hi there, I'm İsa Caner Çal 👋
 
 ### 👨‍💻 Computer Engineering Student & AI Developer
-I am a senior Computer Engineering student at **Bursa Technical University**, specializing in Computer Vision, Deep Learning, and Database Management. I build high-performance AI solutions optimized for NVIDIA hardware.
+I am a senior Computer Engineering student at **Bursa Technical University**, specializing in Computer Vision, Deep Learning, and AI Inference Optimization. I focus on building and deploying high-performance AI systems.
 
 ---
 
 ### 🚀 What I'm Focused On
-- **Object Detection:** Implementation and fine-tuning of state-of-the-art architectures like **RF-DETR**, YOLOv8/v11, and Transformer-based detectors.
-- **LLM & RAG:** Developing localized AI agents and RAG pipelines using **LangChain** and Ollama.
-- **Model Optimization:** Converting and optimizing models with **TensorRT** and **ONNX** for real-time edge deployment.
-- **Data Management:** Designing and managing complex relational databases with **Oracle SQL**.
-- **TÜBİTAK 2209-B:** Leading AI research on aerial vehicle classification using RGB and Thermal imaging.
+- **Object Detection (SOTA):** Specialized in implementing and fine-tuning **YOLO (v8, v10, v11)** and **RF-DETR** architectures for real-time applications.
+- **LLM Serving & Optimization:** High-throughput model serving using **vLLM** and building RAG pipelines with **LangChain**.
+- **Inference Acceleration:** Optimizing Deep Learning models using **TensorRT**, **ONNX**, and **NVIDIA CUDA** for peak performance on NVIDIA GPUs.
+- **TÜBİTAK 2209-B:** Developing an AI-powered detection system for aerial vehicles (Drones/Birds) using thermal and RGB data.
+- **Software Engineering:** Solid foundations in **Java**, **Python**, and **C++** with experience in **Oracle SQL** database management.
 
 ---
 
@@ -18,20 +18,20 @@ I am a senior Computer Engineering student at **Bursa Technical University**, sp
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=flat&logo=oracle&logoColor=white) |
-| **AI & Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00818A?style=flat&logo=google&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) **RF-DETR** | **YOLOv11** |
-| **Databases** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Optimization/DevOps** | ![NVIDIA](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
+| **Inference & Serving** | ![vLLM](https://img.shields.io/badge/vLLM-orange?style=flat) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat) ![ONNX](https://img.shields.io/badge/ONNX-005BA1?style=flat&logo=onnx&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=flat&logo=oracle&logoColor=white) |
+| **Computer Vision** | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=ultralytics&logoColor=black) **RF-DETR** ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00818A?style=flat&logo=google&logoColor=white) |
+| **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) |
+| **DevOps & OS** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
 ### 🌟 Featured Projects
 
-- **[Aerial Vehicle Detection (TÜBİTAK)](https://github.com/isacanercal/your-repo)**: Real-time detection and classification system for drones and birds using optimized YOLO and Thermal data.
-- **[RF-DETR Implementation](https://github.com/isacanercal/your-repo)**: Applying Recurrent Feature DETR for enhanced object detection in complex environments.
-- **Virtual Mouse Control**: Using MediaPipe and OpenCV for gesture-based peripheral interaction.
-- **[TurkLama](https://huggingface.co/isacanercal)**: Fine-tuned Turkish LLM on Llama 3 architecture.
+- **[Aerial Vehicle Detection (TÜBİTAK)](https://github.com/isacanercal)**: Multi-modal (Thermal/RGB) drone detection system using optimized YOLOv11.
+- **[TurkLama](https://huggingface.co/isacanercal)**: Turkish-specific LLM fine-tuned on Llama 3.2, optimized for local inference.
+- **LLM Acceleration Lab**: Benchmarking and deploying models using **vLLM** and **TensorRT** for low-latency Turkish NLP tasks.
+- **Virtual Mouse Control**: Hand-gesture based interaction system using MediaPipe and OpenCV.
 
 ---
 
@@ -45,5 +45,5 @@ I am a senior Computer Engineering student at **Bursa Technical University**, sp
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isa-caner-çal-870869258)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacanercal@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)](https://huggingface.co/isacanercal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacanercal@gmail.com)
